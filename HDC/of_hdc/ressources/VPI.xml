@@ -1,0 +1,33 @@
+<CFG>
+    <task>0</task>
+    <tr>0</tr>
+    <mu>1</mu>
+</CFG>
+<HKB>
+    <alpha>0.641</alpha>
+    <beta>0.007095</beta>
+    <gamma>12.457</gamma>
+    <A>-0.5</A>
+    <B>-0.025</B>
+    <omega>1.6</omega>
+</HKB>
+<EXC>
+    <alpha>-0.5</alpha>
+    <beta>-0.025</beta>
+    <A>0.0</A>
+    <B>0.0</B>
+    <tau>1.0</tau>
+    <gain>1.0</gain>
+    <omega>1.6</omega>
+</EXC>
+<EXC2>
+    <alpha>-0.5</alpha>
+    <beta>-0.025</beta>
+    <A>0.0</A>
+    <B>0.0</B>
+    <tau>0.01</tau>
+    <gain>1.0</gain>
+    <kappa>500</kappa>
+    <lambda>0.4</lambda>
+    <omega>1.0</omega>
+</EXC2>
