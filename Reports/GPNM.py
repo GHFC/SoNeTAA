@@ -3,13 +3,12 @@
 
 # ==============================================================================
 # title : GPNM.py
-# description : Compute a nonparametric normative modeling based on age of participants
+# description : Compute a gaussian process normative model based on age
 # author : Guillaume Dumas, Human Genetics & Cognitive Functions, Institut Pasteur
-# date : 2017
-# version : 0.1a
-# usage : python NPNM.py
-# notes : Preliminary...
-# python_version : 2.7
+# date : 2019-10-30
+# version : 1.0
+# usage : python GPNM.py
+# python_version : 3.6
 # license : BSD (3-clause)
 # ============================================================================== 
 
