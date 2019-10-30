@@ -5,11 +5,10 @@
 # title : NPNM.py
 # description : Compute a nonparametric normative modeling based on age of participants
 # author : Guillaume Dumas, Human Genetics & Cognitive Functions, Institut Pasteur
-# date : 2017
-# version : 0.1a
+# date : 2019-10-30
+# version : 1.0
 # usage : python NPNM.py
-# notes : Preliminary...
-# python_version : 2.7
+# python_version : 3.6
 # license : BSD (3-clause)
 # ============================================================================== 
 
