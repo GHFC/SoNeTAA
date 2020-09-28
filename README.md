@@ -2,6 +2,8 @@
 
 Includes various scripts for the platform SoNeTAA (Social Neuroscience for Therapeutic Approaches in Autism).
 
+The repository has now moved to the [PPSP team Github page](https://github.com/ppsp-team/brain-behavior-scripts).
+
 The repository includes:
 - Arduino: Code firmware for the Arduino, to apply the HDC and MMN test.
 - HDC: Human Dynamic Clamp related code.
