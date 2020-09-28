@@ -1,5 +1,7 @@
-# SoNeTAA Scripts
-Includes various scripts for the platform SoNeTAA (Social Neuroscience for Therapeutic Approaches in Autism).
+# Brain & Behavior Scripts
+
+Includes various scripts for EEG and Behavior platform.
+Originally for the SoNeTAA (Social Neuroscience for Therapeutic Approaches in Autism) platform.
 
 The repository includes:
 - Arduino: Code firmware for the Arduino, to apply the HDC and MMN test.
