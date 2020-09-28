@@ -1,4 +1,4 @@
-# Brain & Behavior Scripts
+# SoNeTAA Scripts
 
 Includes various scripts for the platform SoNeTAA (Social Neuroscience for Therapeutic Approaches in Autism).
 
